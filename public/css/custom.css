@@ -1,0 +1,17 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.img-max-width {
+    max-width: 100%;
+    width: 100px;
+}
+
+.menu_active {
+    color: rgb(99 102 241);
+    font-weight: bold;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+  }
